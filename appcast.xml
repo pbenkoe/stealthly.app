@@ -3,12 +3,20 @@
     <channel>
         <title>Stealthly</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Fri, 18 Apr 2025 11:54:29 -0700</pubDate>
+            <sparkle:version>2025.04.15</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pbenkoe/stealthly.app/releases/download/1.1/Stealthly.zip" length="3764239" type="application/octet-stream" sparkle:edSignature="jfdSsMU9M7eWNhAfmNAES7ah+zl6jSla8k+oflFBzGMdyXXZgJHf1h7OB5kK1wdQALDo7QsqyKwFOUlybmyeAg=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 27 Mar 2025 13:24:38 -0700</pubDate>
             <sparkle:version>2025.03.26</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pbenkoe/stealthly.app/releases/download/1.0.1/Stealthly-1.0.1.zip" length="3683374" type="application/octet-stream" sparkle:edSignature="fI9DwINvR40pdr71uHtyDUKLju5ijlZTenTVokdW/225d93DiGeQyeJKiX8fBFKWB9oahR/ef2+3hQoXIHn2CA=="/>
+            <enclosure url="https://github.com/pbenkoe/stealthly.app/releases/download/1.0.1/Stealthly.zip" length="3683374" type="application/octet-stream" sparkle:edSignature="fI9DwINvR40pdr71uHtyDUKLju5ijlZTenTVokdW/225d93DiGeQyeJKiX8fBFKWB9oahR/ef2+3hQoXIHn2CA=="/>
         </item>
         <item>
             <title>1.0</title>
