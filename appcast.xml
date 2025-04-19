@@ -3,6 +3,14 @@
     <channel>
         <title>Stealthly</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Fri, 18 Apr 2025 20:18:27 -0700</pubDate>
+            <sparkle:version>2025.04.19</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pbenkoe/stealthly.app/releases/download/1.1.2/Stealthly.zip" length="3764722" type="application/octet-stream" sparkle:edSignature="FoauJN42p0Bhzt6LcVIPjj+CFCwAbxYopFYOkaQEppbzF/uWLl3rZ1UXanpA/u+sahlMe6QD6CWIf7QQVnHFBw=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Fri, 18 Apr 2025 12:21:28 -0700</pubDate>
             <sparkle:version>2025.04.18</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pbenkoe/stealthly.app/releases/download/1.1/Stealthly.zip" length="3764239" type="application/octet-stream" sparkle:edSignature="jfdSsMU9M7eWNhAfmNAES7ah+zl6jSla8k+oflFBzGMdyXXZgJHf1h7OB5kK1wdQALDo7QsqyKwFOUlybmyeAg=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 27 Mar 2025 13:24:38 -0700</pubDate>
-            <sparkle:version>2025.03.26</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pbenkoe/stealthly.app/releases/download/1.0.1/Stealthly.zip" length="3683374" type="application/octet-stream" sparkle:edSignature="fI9DwINvR40pdr71uHtyDUKLju5ijlZTenTVokdW/225d93DiGeQyeJKiX8fBFKWB9oahR/ef2+3hQoXIHn2CA=="/>
         </item>
     </channel>
 </rss>
